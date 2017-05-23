@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>About Me</title>
 <link rel="stylesheet" type="text/css" href="app.css">
 </head>
 <body>
