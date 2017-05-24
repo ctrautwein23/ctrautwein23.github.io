@@ -1,18 +1,19 @@
 <html>
-<head>
-<link rel="stylesheet" type="text/css" href="app.css">
-</head>
 <body>
 
-<h1>About me</h1>
+<h1>The Miraculous Butt Doctor</h1>
 
-<h4>My hobbies</h4>
+<h4>My practice will:</h4>
 
 <ul>
-	<li>Playing guitar</li>
-	<li>Cooking</li>
-	<li>Origami</li>
+	<li>Cure your butt-itis</li>
+	<li>Inspect all cabooses</li>
+	<li>Keep a record of all interesting butt illnesses</li>
 </ul>
-
+<form>
+<label for="email">
+<input id="email" type="email" placeholder="Graham so strong" required>
+<input type="submit">
+</form>
 </body>
 </html>
