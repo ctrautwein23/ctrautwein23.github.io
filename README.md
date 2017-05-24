@@ -10,10 +10,6 @@
 	<li>Inspect all cabooses</li>
 	<li>Keep a record of all interesting butt illnesses</li>
 </ul>
-<form>
 <label for="email">
 <input id="email" type="email" placeholder="Graham so strong" required>
 <input type="submit">
-</form>
-</body>
-</html>
